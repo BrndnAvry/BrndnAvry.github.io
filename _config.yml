@@ -2,8 +2,4 @@ title: Brandon Avery
 name: Brandon Avery
 description: Mechanical/Integrity Engineer studying Machine Learning 
 theme: jekyll-theme-slate
-color:
-  header: "#000"
-  gradient_left: "#e53935"
-  gradient_right: "#f57c00"
 show_downloads: "true"
